@@ -44,7 +44,8 @@ Non-Goals:
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
-  * TODO (Apache 2.0 license, will use RSTUF 
+  * Our implementations will use the Apache 2.0 license
+  * Our specification uses [CC-Attribution-4.0-International](LICENSE.md).
   
 ### Project References
 
