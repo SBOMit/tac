@@ -49,10 +49,10 @@ When contributing an existing Project to the OpenSSF, the contribution must unde
   
 ### Project References
 
-| Reference          | URL |
-|--------------------|-----|
+| Reference          | URL  |
+|--------------------|------|
 | Repo               | https://github.com/SBOMit |
-| Website            | TODO    |
-| Contributing guide | TODO    |
-| Roadmap            | TODO   |
-| Demos              | N/A   |
+| Website            | https://sbomit.dev/       |
+| Contributing guide | TODO |
+| Roadmap            | TODO |
+| Demos              | N/A  |
