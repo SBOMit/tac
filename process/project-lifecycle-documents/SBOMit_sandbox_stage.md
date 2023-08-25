@@ -44,8 +44,9 @@ Non-Goals:
 
 When contributing an existing Project to the OpenSSF, the contribution must undergo license and IP due diligence by the Linux Foundation (LF).
 
-  * Our implementations will use the Apache 2.0 license
-  * Our specification uses [CC-Attribution-4.0-International](LICENSE.md).
+  * Our reference implementations will use the Apache 2.0 license
+  * Our specification uses [Community Specification License 1.0](https://github.com/SBOMit/specification/blob/main/LICENSE.md).
+  * Our website uses [Creative Commons Attribution 4.0 International](https://github.com/SBOMit/website/blob/main/LICENSE.md)
   
 ### Project References
 
