@@ -31,6 +31,7 @@ Civs
 CLA
 CNCF
 Coinbase
+colek
 COPYLEFT
 colek
 Corail
